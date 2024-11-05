@@ -1,5 +1,6 @@
 # 🦄️ Awesome Uniswap v4 Resources
 
+If you want your project featured here, submit a pull request
 
 > General Overview [UniswapHooks.com]([https://uniswaphooks.com/](https://docs.uniswap.org/contracts/v4/overview)) 
 
