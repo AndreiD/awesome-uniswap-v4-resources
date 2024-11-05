@@ -45,6 +45,8 @@ Launch Sniping Protection: Safeguard your token's launch from bots and malicious
 Sandwich Attack Prevention: Protect liquidity providers and traders from sandwich attacks that exploit transaction ordering.
 Liquidity Provision Incentives: Reward users for providing liquidity with tailored incentives that ensure long-term liquidity for your token.
 Referral System: Boost your project's visibility and growth with an integrated referral program that rewards community members for bringing in new users.
+- [gamza-core](https://github.com/Gamzanet/gamza-static) A simple python project for uniswap v4 hook analysis.
+- [arena](https://github.com/anthias-labs/arena) Event-driven simulation runtime.Flexible performance analysis and telemetry.
 - [Multi-Sig](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main): Requires multiple signatures for certain pool actions, such as adding or removing liquidity. This can be used to add an extra layer of security to a pool.
 - [Whitelist](https://github.com/atj3097/whitelist-hook): Restricts pool participation to a whitelist of approved addresses. This can be used to prevent certain people from participating in a pool, such as people who have been banned from the platform or people who are considered to be high-risk traders.
 - [Old Account](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/OldAccountHook.sol): Allows only old accounts to use the pool. Old is subjective; it's the hook owner's job to define "old".
