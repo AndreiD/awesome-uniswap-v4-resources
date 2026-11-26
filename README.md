@@ -83,6 +83,7 @@ Referral System: Boost your project's visibility and growth with an integrated r
 - [WBTC Hook](https://github.com/tyllenb/v4-btc-hook): A hook that only allows WBTC pools to be created. This is built for celebrating the Bitcoin ETF was approved on 2024-01-10.
 - [v2 on v4](https://github.com/hensha256/v2-on-v4): A hook that implements Uniswap v2 on Uniswap v4 with hook.
 - [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
+- [PrimeHash](https://primehash.org/) ([source](https://etherscan.io/address/0x22Fc32f6AbF32EC820207dD6751a9334CeE320cc#code)): Liquidity mining hook live on Ethereum mainnet. Takes a 3% ETH swap fee shared with full-range LPs subscribed through a PositionManager subscriber (streamed over a day to defeat JIT liquidity), while subscribed positions mine PRIME every block with Bitcoin-style halvings.
 
 ### From Hackathon
 
